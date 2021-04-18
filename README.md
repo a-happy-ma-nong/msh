@@ -5,7 +5,7 @@ msh是专用于**micropython**的**类Linuxshell**，msh基本实现了micropyth
 ```
 git clone https://github.com/a-happy-ma-nong/msh.git
 ```
-接着把除**.git目录和README.md** 外的文件全部上传到micropython板上
+接着把除**README.md** 外的文件全部上传到micropython板上
 然后进入repl，输入:
 ```
 from main import *
