@@ -11,3 +11,5 @@ git clone https://github.com/a-happy-ma-nong/msh.git
 from main import *
 ```
 接着就可以愉快地使用ls、cd等命令了！！
+***
+因为单片机的内存资源寸土寸金，所以代码**没有注释！没有注释！没有注释！**
