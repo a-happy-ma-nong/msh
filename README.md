@@ -8,7 +8,7 @@ git clone https://github.com/a-happy-ma-nong/msh.git
 接着把**msh**文件夹上传到micropython板上
 然后进入repl，输入:
 ```
-from main import *
+from msh.main import *
 ```
 接着就可以愉快地使用ls、cd等命令了！！
 ***
