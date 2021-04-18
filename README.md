@@ -1,5 +1,5 @@
 # msh
-msh是专用于**micropython**的**类Linuxshell**msh基本实现了micropython的文件操作
+msh是专用于**micropython**的**类Linuxshell**,msh基本实现了micropython的文件操作
 ***
 可以使用以下命令使用msh：
 ```
