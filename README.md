@@ -12,4 +12,5 @@ git clone https://github.com/a-happy-ma-nong/msh.git
 from msh.main import *
 ```
 **注意：每次使用时都需要运行上方的命令，或将其添加进main.py**
+
 接着就可以愉快地使用ls、cd等命令了！！
