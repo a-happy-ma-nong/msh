@@ -18,6 +18,10 @@ while True:
         break
     elif command == "ls":
         ls()
+    elif command == "cpufreq":
+        cpufreq()
+    elif command == "df":
+        df()
     elif command == "":
         pass
     else:
