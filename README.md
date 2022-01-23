@@ -1,3 +1,5 @@
+#**此项目暂未完成（cd的功能），请勿用于实际生产环境！！！
+
 # msh
 msh是专用于**micropython**的**shell**,msh基本实现了micropython的**文件操作**
 ***
