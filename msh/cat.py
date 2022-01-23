@@ -3,4 +3,4 @@ def cat(file):
        with open(file,"r") as f:
                 print(f.read())
     except OSError:
-        print("cat: file %s not found" % file)
+        print("cat: %s: No such file or directory" % file)
