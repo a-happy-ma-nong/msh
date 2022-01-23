@@ -22,7 +22,9 @@ while True:
         cpufreq()
     elif command == "df":
         df()
+    elif command == "cd":
+        cd("/")
     elif command == "":
         pass
     else:
-        print("msh: %s not found" % command)
+        print("msh: %s: No such file or directory" % command)
